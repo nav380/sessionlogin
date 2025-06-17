@@ -27,5 +27,5 @@ A basic Django project demonstrating a **session-based login system** using Djan
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/session-login.git
-cd session-login
+git clone https://github.com/nav380/sessionlogin
+cd sessionlogin
